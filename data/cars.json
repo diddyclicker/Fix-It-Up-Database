@@ -1,0 +1,11 @@
+[
+  {
+    "id": "example-car",
+    "name": "Example Car",
+    "category": "Sport",
+    "value": 250000,
+    "previousValue": null,
+    "imageUrl": "",
+    "updatedAt": "2026-11-26T00:00:00.000Z"
+  }
+]

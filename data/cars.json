@@ -8,7 +8,8 @@
       "previousValue": null,
       "realCar": "Audi R8",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-f8-performance",
@@ -18,7 +19,8 @@
       "previousValue": null,
       "realCar": "Audi R8 (2020)",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-rf3",
@@ -28,7 +30,8 @@
       "previousValue": null,
       "realCar": "Audi RS3",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-rf3-sedan",
@@ -38,7 +41,8 @@
       "previousValue": null,
       "realCar": "Audi RS3 Sedan",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-rf6",
@@ -48,7 +52,8 @@
       "previousValue": null,
       "realCar": "Audi RS6",
       "sourceType": "Robux",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-rf6-c6",
@@ -58,7 +63,8 @@
       "previousValue": null,
       "realCar": "Audi RS6 C6",
       "sourceType": "Event",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-tt",
@@ -68,7 +74,8 @@
       "previousValue": null,
       "realCar": "Audi TT",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-v4",
@@ -78,7 +85,8 @@
       "previousValue": null,
       "realCar": "Audi A4",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-v5",
@@ -88,7 +96,8 @@
       "previousValue": null,
       "realCar": "Audi A5",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-v7",
@@ -98,7 +107,8 @@
       "previousValue": null,
       "realCar": "Audi A7",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "avyra-v8",
@@ -108,7 +118,8 @@
       "previousValue": null,
       "realCar": "Audi A8",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "banana-car",
@@ -118,7 +129,8 @@
       "previousValue": null,
       "realCar": null,
       "sourceType": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "bravik-noturno",
@@ -128,7 +140,8 @@
       "previousValue": null,
       "realCar": "Buick Regal GNX",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "chule-camarao",
@@ -138,7 +151,8 @@
       "previousValue": null,
       "realCar": "Chevrolet Camaro",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "chule-camarao-1979-sport",
@@ -148,7 +162,8 @@
       "previousValue": null,
       "realCar": "Chevy Camaro SS 1979",
       "sourceType": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "chule-camarao-iron-f-1990",
@@ -158,7 +173,8 @@
       "previousValue": null,
       "realCar": "Chevy Camaro IROC-Z",
       "sourceType": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "chule-curgete-c2",
@@ -168,7 +184,8 @@
       "previousValue": null,
       "realCar": "Chevy Corvette C2",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "chule-curgette",
@@ -178,7 +195,8 @@
       "previousValue": null,
       "realCar": "Chevrolet Corvette C6",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "chule-curgette-c7",
@@ -188,7 +206,8 @@
       "previousValue": null,
       "realCar": "Chevrolet Corvette C7",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "chule-el-caminho-ss-454",
@@ -198,7 +217,8 @@
       "previousValue": null,
       "realCar": "Chevrolet SS",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "chule-imperio-ss",
@@ -208,7 +228,8 @@
       "previousValue": null,
       "realCar": "Chevrolet Impala SS",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "darsa-trilho",
@@ -218,7 +239,8 @@
       "previousValue": null,
       "realCar": "Dacia Sandero Stepway",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "dogo-carrega",
@@ -228,7 +250,8 @@
       "previousValue": null,
       "realCar": "Dodge Charger",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "dogo-carrega-fep-hellgato",
@@ -238,7 +261,8 @@
       "previousValue": null,
       "realCar": "Dodge Charger SRT Hellcat",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "dogo-carrega-nightona",
@@ -248,7 +272,8 @@
       "previousValue": null,
       "realCar": "1969 Dodge Charger Daytona",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "dogo-desafio",
@@ -258,7 +283,8 @@
       "previousValue": null,
       "realCar": "Dodge Challenger",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "dogo-vip-sup",
@@ -268,7 +294,8 @@
       "previousValue": null,
       "realCar": "Dodge Viper SRT",
       "sourceType": "Gold",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "fia-te-10026p",
@@ -278,7 +305,8 @@
       "previousValue": null,
       "realCar": "Fiat 126",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "fia-te-131",
@@ -288,7 +316,8 @@
       "previousValue": null,
       "realCar": "Fiat 131",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "fia-te-alberto-300",
@@ -298,7 +327,8 @@
       "previousValue": null,
       "realCar": "Fiat Abarth 500",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "fia-te-double",
@@ -308,7 +338,8 @@
       "previousValue": null,
       "realCar": "Fiat Multipla",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "fia-te-ponto",
@@ -318,7 +349,8 @@
       "previousValue": null,
       "realCar": "Fiat Punto",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "fia-te-umdois",
@@ -328,7 +360,8 @@
       "previousValue": null,
       "realCar": "Fiat Uno",
       "sourceType": "Gold",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "fia-te-x1-9",
@@ -338,7 +371,8 @@
       "previousValue": null,
       "realCar": "Fiat X1/9",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "fotos-exigente-cura",
@@ -348,7 +382,8 @@
       "previousValue": null,
       "realCar": "Lotus Exige Scura",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-focado",
@@ -358,7 +393,8 @@
       "previousValue": null,
       "realCar": "Ford Focus RS",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-jf",
@@ -368,7 +404,8 @@
       "previousValue": null,
       "realCar": "Ford GT",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-mustank-70s",
@@ -378,7 +415,8 @@
       "previousValue": null,
       "realCar": "Ford Mustang [1970's]",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-mustank-hoonicorn",
@@ -388,7 +426,8 @@
       "previousValue": null,
       "realCar": "Hoonigan Ford Mustang",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-mustank-relby-sp500",
@@ -398,7 +437,8 @@
       "previousValue": null,
       "realCar": "Ford Mustang Shelby GT500",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-party",
@@ -408,7 +448,8 @@
       "previousValue": null,
       "realCar": "Ford Fiesta",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-que",
@@ -418,7 +459,8 @@
       "previousValue": null,
       "realCar": "Ford Ka",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-rex",
@@ -428,7 +470,8 @@
       "previousValue": null,
       "realCar": "Ford Raptor",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-traffic",
@@ -438,7 +481,8 @@
       "previousValue": null,
       "realCar": "Ford Transit",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "four-transito-mk-6",
@@ -448,7 +492,8 @@
       "previousValue": null,
       "realCar": "Ford Transit",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "ganley-continente-fp",
@@ -458,7 +503,8 @@
       "previousValue": null,
       "realCar": "Bentley Continental GT",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "garron-vendaval",
@@ -468,7 +514,8 @@
       "previousValue": null,
       "realCar": "GMC Syclone",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "hay-semente",
@@ -478,7 +525,8 @@
       "previousValue": null,
       "realCar": "Kia Creed",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-civico-si",
@@ -488,7 +536,8 @@
       "previousValue": null,
       "realCar": "Honda Civic SI",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-ciwiq",
@@ -498,7 +547,8 @@
       "previousValue": null,
       "realCar": "Honda Civic",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-ciwiq-pyte-f-ek",
@@ -508,7 +558,8 @@
       "previousValue": null,
       "realCar": "Honda Civic Type R EK9",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-feat",
@@ -518,7 +569,8 @@
       "previousValue": null,
       "realCar": "Honda Beat",
       "sourceType": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-inteiro",
@@ -528,7 +580,8 @@
       "previousValue": null,
       "realCar": "Honda Integra",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-nisx",
@@ -538,7 +591,8 @@
       "previousValue": null,
       "realCar": "Honda NSX",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-proluiz",
@@ -548,7 +602,8 @@
       "previousValue": null,
       "realCar": "Honda Prelude",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-s2k",
@@ -558,7 +613,8 @@
       "previousValue": null,
       "realCar": "Honda S2000",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-tiperar",
@@ -568,7 +624,8 @@
       "previousValue": null,
       "realCar": "Honda Civic TypeR",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "holde-urbis",
@@ -578,7 +635,8 @@
       "previousValue": null,
       "realCar": "Honda City",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "hyonda-i20n",
@@ -588,7 +646,8 @@
       "previousValue": null,
       "realCar": "Hyundai i20",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "jipao-pistola",
@@ -598,7 +657,8 @@
       "previousValue": null,
       "realCar": "Jeep Trackhawk",
       "sourceType": "Gold",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "kart",
@@ -608,7 +668,8 @@
       "previousValue": null,
       "realCar": "Go-Kart",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lambemos-golhoes",
@@ -618,7 +679,8 @@
       "previousValue": null,
       "realCar": "Lamborghini Gallardo LP 570-4 SuperLeggera",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lambemos-iris",
@@ -628,7 +690,8 @@
       "previousValue": null,
       "realCar": "Lamborghini Urus",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lambemos-morcego-rgb",
@@ -638,7 +701,8 @@
       "previousValue": null,
       "realCar": "Lamborghini Murcielago",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lanca-status-fr4",
@@ -648,7 +712,8 @@
       "previousValue": null,
       "realCar": "Lancia Stratos HF",
       "sourceType": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lararry-88-pisca",
@@ -658,7 +723,8 @@
       "previousValue": null,
       "realCar": "Ferrari 488 Pista",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lararry-r40",
@@ -668,7 +734,8 @@
       "previousValue": null,
       "realCar": "Ferrari F40",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lararry-scintila",
@@ -678,7 +745,8 @@
       "previousValue": null,
       "realCar": "Ferrari F430",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "leskus-fp-50",
@@ -688,7 +756,8 @@
       "previousValue": null,
       "realCar": "Lexus LC 500",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "leskus-not200",
@@ -698,7 +767,8 @@
       "previousValue": null,
       "realCar": "Lexus IS200",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "leskus-pala",
@@ -708,7 +778,8 @@
       "previousValue": null,
       "realCar": "Lexus LFA",
       "sourceType": "Gold",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "leskus-rfc",
@@ -718,7 +789,8 @@
       "previousValue": null,
       "realCar": "Lexus RC F",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lester-moniz-db11",
@@ -728,7 +800,8 @@
       "previousValue": null,
       "realCar": "Aston Martin DB11",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lester-moniz-vantage",
@@ -738,7 +811,8 @@
       "previousValue": null,
       "realCar": "Aston Martin Vantage",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lion-jf-s",
@@ -748,7 +822,8 @@
       "previousValue": null,
       "realCar": "Toyota GT86/Scion FRS",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-arteao-r",
@@ -758,7 +833,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Arteon R",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-brasiuiu",
@@ -768,7 +844,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Brasília",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-cissoko-f",
@@ -778,7 +855,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Scirocco R",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-golo",
@@ -788,7 +866,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Golf",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-golo-gt",
@@ -798,7 +877,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Golf GTI",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-golo-mk4",
@@ -808,7 +888,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Golf Mk4",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-golo-mk5",
@@ -818,7 +899,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Golf Mk5",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-nype-1",
@@ -828,7 +910,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Beetle",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-passar",
@@ -838,7 +921,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Passat B5",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-polar-6r",
@@ -848,7 +932,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Polo Mk5 6R",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "lokswag-tourette",
@@ -858,7 +943,8 @@
       "previousValue": null,
       "realCar": "Volkswagen Touareg",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mamibac-escalada-efv",
@@ -868,7 +954,8 @@
       "previousValue": null,
       "realCar": "Cadillac Escalade ESV",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mamibac-fz5-b",
@@ -878,7 +965,8 @@
       "previousValue": null,
       "realCar": "Cadillac CT5-V Blackwing",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mandalorian-jbc-12",
@@ -888,7 +976,8 @@
       "previousValue": null,
       "realCar": "DeLorean DMC-12",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mata-787f",
@@ -898,7 +987,8 @@
       "previousValue": null,
       "realCar": "Mazda 787B",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mata-fx7",
@@ -908,7 +998,8 @@
       "previousValue": null,
       "realCar": "Mazda RX7",
       "sourceType": "Robux",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mata-piada",
@@ -918,7 +1009,8 @@
       "previousValue": null,
       "realCar": "Mazda Miata",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "matsu-elipz-fzx",
@@ -928,7 +1020,8 @@
       "previousValue": null,
       "realCar": "1995 Mitsubishi Eclipse",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "matsu-lanca",
@@ -938,7 +1031,8 @@
       "previousValue": null,
       "realCar": "Mitsubishi Lancer Evo II",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "matsu-lanca-4x4",
@@ -948,7 +1042,8 @@
       "previousValue": null,
       "realCar": "Mitsubishi MRX09",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "matsu-lanca-evolucao",
@@ -958,7 +1053,8 @@
       "previousValue": null,
       "realCar": "Mitsubishi Lancer Evo X",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mclumber-520",
@@ -968,7 +1064,8 @@
       "previousValue": null,
       "realCar": "McLaren 720s",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mclumber-f1-jtf",
@@ -978,7 +1075,8 @@
       "previousValue": null,
       "realCar": "Mclaren P1 GTR",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mclumber-faisca",
@@ -988,7 +1086,8 @@
       "previousValue": null,
       "realCar": "McLaren 570S",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mclumber-quecena-gtf",
@@ -998,7 +1097,8 @@
       "previousValue": null,
       "realCar": "McLaren Senna GTR",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-190f-evolucao-ii",
@@ -1008,7 +1108,8 @@
       "previousValue": null,
       "realCar": "Mercedes-Benz 190E Cosworth Evo II",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-560-sec-koenig",
@@ -1018,7 +1119,8 @@
       "previousValue": null,
       "realCar": "Mercedes 560SEC",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-c203",
@@ -1028,7 +1130,8 @@
       "previousValue": null,
       "realCar": "Mercedes W203",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-celes-63",
@@ -1038,7 +1141,8 @@
       "previousValue": null,
       "realCar": "Mercedes-Benz CLS63",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-f55",
@@ -1048,7 +1152,8 @@
       "previousValue": null,
       "realCar": "Mercedes E55 Wagon",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-fjk-gft",
@@ -1058,7 +1163,8 @@
       "previousValue": null,
       "realCar": "Mercedes-AMG CLK GTR",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-g-wafer",
@@ -1068,7 +1174,8 @@
       "previousValue": null,
       "realCar": "Mercedes G Wagon",
       "sourceType": "Event",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-glf63",
@@ -1078,7 +1185,8 @@
       "previousValue": null,
       "realCar": "Mercedes CLS 63",
       "sourceType": "Robux",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-jf",
@@ -1088,7 +1196,8 @@
       "previousValue": null,
       "realCar": "Mercedes AMG GT",
       "sourceType": "Event",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-maibac-s650",
@@ -1098,7 +1207,8 @@
       "previousValue": null,
       "realCar": "Mercedes S650 Maybach",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-slx",
@@ -1108,7 +1218,8 @@
       "previousValue": null,
       "realCar": "Mercedes SLS",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-z73",
@@ -1118,7 +1229,8 @@
       "previousValue": null,
       "realCar": "Mercedes C63",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "merquis-zla-45",
@@ -1128,7 +1240,8 @@
       "previousValue": null,
       "realCar": "Mercedes CLA 45 AMG",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "mine-copa-s",
@@ -1138,7 +1251,8 @@
       "previousValue": null,
       "realCar": "MINI Cooper S",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-400x",
@@ -1148,7 +1262,8 @@
       "previousValue": null,
       "realCar": "Nissan 400z",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-750x",
@@ -1158,7 +1273,8 @@
       "previousValue": null,
       "realCar": "Nissan 350Z",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-groundline-2000-gt-r",
@@ -1168,7 +1284,8 @@
       "previousValue": null,
       "realCar": "Nissan Skyline 2000 GTR",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-groundline-f32",
@@ -1178,7 +1295,8 @@
       "previousValue": null,
       "realCar": "Nissan GT-R Skyline R32",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-groundline-f33",
@@ -1188,7 +1306,8 @@
       "previousValue": null,
       "realCar": "Nissan Skyline R33",
       "sourceType": "Event",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-groundline-f34",
@@ -1198,7 +1317,8 @@
       "previousValue": null,
       "realCar": "Nissan GT-R Skyline R34",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-jtf",
@@ -1208,7 +1328,8 @@
       "previousValue": null,
       "realCar": "Nissan GT-R R35",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-jtf-lw",
@@ -1218,7 +1339,8 @@
       "previousValue": null,
       "realCar": "Nissan GT-R R35 Liberty Walk",
       "sourceType": "Event",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-senda",
@@ -1228,7 +1350,8 @@
       "previousValue": null,
       "realCar": "Nissan Sentra",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-silva",
@@ -1238,7 +1361,8 @@
       "previousValue": null,
       "realCar": "Nissan Silvia",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "missah-silva-s15",
@@ -1248,7 +1372,8 @@
       "previousValue": null,
       "realCar": "Nissan Silvia S15",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "ontel-astron",
@@ -1258,7 +1383,8 @@
       "previousValue": null,
       "realCar": "Opel Astra TCR",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "ontel-costa",
@@ -1268,7 +1394,8 @@
       "previousValue": null,
       "realCar": "Opel Corsa B",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "ontel-kadeto",
@@ -1278,7 +1405,8 @@
       "previousValue": null,
       "realCar": "Opel Kadett C",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "ontel-pontus-neta",
@@ -1288,7 +1416,8 @@
       "previousValue": null,
       "realCar": "Opel Lotus Omega",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "peujo-200e5",
@@ -1298,7 +1427,8 @@
       "previousValue": null,
       "realCar": "Peugeot 205",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "peujo-200e6",
@@ -1308,7 +1438,8 @@
       "previousValue": null,
       "realCar": "Peugeot 206",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "peujo-258-f5",
@@ -1318,7 +1449,8 @@
       "previousValue": null,
       "realCar": "Peugeot 208 R5",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "peujo-400e6",
@@ -1328,7 +1460,8 @@
       "previousValue": null,
       "realCar": "Peugeot 406",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "peujo-fo6-hypercopa-l1600",
@@ -1338,7 +1471,8 @@
       "previousValue": null,
       "realCar": "Peugeot 106 SuperCopa S1600",
       "sourceType": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "porx-119-speed-furioso",
@@ -1348,7 +1482,8 @@
       "previousValue": null,
       "realCar": "Porsche 911 Turbo S Mansory",
       "sourceType": "Code",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "porx-bareira-rf",
@@ -1358,7 +1493,8 @@
       "previousValue": null,
       "realCar": "Porsche 911 Carrera RSR",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "porx-bruto-brabo",
@@ -1368,7 +1504,8 @@
       "previousValue": null,
       "realCar": "Porsche 911 Turbo S Brabus 900 Rocket R",
       "sourceType": "Event",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "porx-corre-jt",
@@ -1378,7 +1515,8 @@
       "previousValue": null,
       "realCar": "Porsche Carrera GT",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "porx-jt2-rf",
@@ -1388,7 +1526,8 @@
       "previousValue": null,
       "realCar": "Porsche GT2 RS",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "porx-jt3-rf",
@@ -1398,7 +1537,8 @@
       "previousValue": null,
       "realCar": "Porsche GT3 RS",
       "sourceType": "Robux",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "raguer-xisr",
@@ -1408,7 +1548,8 @@
       "previousValue": null,
       "realCar": "Jaguar XFR",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "ratos-rotos-esporte",
@@ -1418,7 +1559,8 @@
       "previousValue": null,
       "realCar": "Range Rover Sport",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "renas-5-turbo",
@@ -1428,7 +1570,8 @@
       "previousValue": null,
       "realCar": "Renault 5 Turbo",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "renas-fio-guilherme",
@@ -1438,7 +1581,8 @@
       "previousValue": null,
       "realCar": "Renault Clio Williams",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "renas-fio-iii-rf",
@@ -1448,7 +1592,8 @@
       "previousValue": null,
       "realCar": "Renault Clio III RS",
       "sourceType": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "renas-kapturado",
@@ -1458,7 +1603,8 @@
       "previousValue": null,
       "realCar": "Renault Captur",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "renas-mugano",
@@ -1468,7 +1614,8 @@
       "previousValue": null,
       "realCar": "Renault Mégane",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "renas-suino",
@@ -1478,7 +1625,8 @@
       "previousValue": null,
       "realCar": "Renault Twingo",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "ruity-shadow",
@@ -1488,7 +1636,8 @@
       "previousValue": null,
       "realCar": "Rolls-Royce Ghost",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "sabes-muito",
@@ -1498,7 +1647,8 @@
       "previousValue": null,
       "realCar": "Saab 9-5 Wagon",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "sacode-oitava",
@@ -1508,7 +1658,8 @@
       "previousValue": null,
       "realCar": "Škoda Octavia",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "selvar-sete",
@@ -1518,7 +1669,8 @@
       "previousValue": null,
       "realCar": "Saleen S7",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "siath-brisa",
@@ -1528,7 +1680,8 @@
       "previousValue": null,
       "realCar": "Seat Ibiza MK2",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "siath-brisa-copa",
@@ -1538,7 +1691,8 @@
       "previousValue": null,
       "realCar": "Seat Ibiza MK3 Cupra",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "siath-lion",
@@ -1548,7 +1702,8 @@
       "previousValue": null,
       "realCar": "Seat Leon",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "sigma-roma-broeiro",
@@ -1558,7 +1713,8 @@
       "previousValue": null,
       "realCar": "Alfa Romeo Brera",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "sigma-roma-quadri",
@@ -1568,7 +1724,8 @@
       "previousValue": null,
       "realCar": "Alfa Romeo Giulia Quadrifoglio",
       "sourceType": "Event",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "skami-truk",
@@ -1578,7 +1735,8 @@
       "previousValue": null,
       "realCar": "Scania Truck",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "sucato-empresa",
@@ -1588,7 +1746,8 @@
       "previousValue": null,
       "realCar": "Subaru Impreza",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-aff67",
@@ -1598,7 +1757,8 @@
       "previousValue": null,
       "realCar": "Toyota AE86",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-aigo",
@@ -1608,7 +1768,8 @@
       "previousValue": null,
       "realCar": "Toyota Aygo",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-camri",
@@ -1618,7 +1779,8 @@
       "previousValue": null,
       "realCar": "Toyota Camry",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-hellox",
@@ -1628,7 +1790,8 @@
       "previousValue": null,
       "realCar": "Toyota Hilux",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-perseguidor-jfx100",
@@ -1638,7 +1801,8 @@
       "previousValue": null,
       "realCar": "Toyota Chaser JZX100",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-supwa",
@@ -1648,7 +1812,8 @@
       "previousValue": null,
       "realCar": "Toyota Supra Mk4",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-supwa-a90",
@@ -1658,7 +1823,8 @@
       "previousValue": null,
       "realCar": "Toyota Supra MK5",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-tr2",
@@ -1668,7 +1834,8 @@
       "previousValue": null,
       "realCar": "Toyota MR2",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-yapp",
@@ -1678,7 +1845,8 @@
       "previousValue": null,
       "realCar": "Toyota GR Yaris",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "toyoda-yaro",
@@ -1688,7 +1856,8 @@
       "previousValue": null,
       "realCar": "Toyota Yaris",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k140",
@@ -1698,7 +1867,8 @@
       "previousValue": null,
       "realCar": "BMW M140i",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k3-adro",
@@ -1708,7 +1878,8 @@
       "previousValue": null,
       "realCar": "BMW M3 ADRO",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k3-e",
@@ -1718,7 +1889,8 @@
       "previousValue": null,
       "realCar": "BMW M3 E36",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k3-e92",
@@ -1728,7 +1900,8 @@
       "previousValue": null,
       "realCar": "BMW 3 Series E92",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k3-f",
@@ -1738,7 +1911,8 @@
       "previousValue": null,
       "realCar": "BMW M3 F80",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k3-g",
@@ -1748,7 +1922,8 @@
       "previousValue": null,
       "realCar": "BMW M3 G80",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k340i",
@@ -1758,7 +1933,8 @@
       "previousValue": null,
       "realCar": "BMW M340i",
       "sourceType": "Robux",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k4-g",
@@ -1768,7 +1944,8 @@
       "previousValue": null,
       "realCar": "BMW M4 Competition G82",
       "sourceType": "Robux",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k4-vortex",
@@ -1778,7 +1955,8 @@
       "previousValue": null,
       "realCar": "BMW M4 ADRO",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k5-e39",
@@ -1788,7 +1966,8 @@
       "previousValue": null,
       "realCar": "BMW M5 E39",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k5-e60",
@@ -1798,7 +1977,8 @@
       "previousValue": null,
       "realCar": "BMW M5 E60",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k6-f",
@@ -1808,7 +1988,8 @@
       "previousValue": null,
       "realCar": "BMW M6 (F13)",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-k8",
@@ -1818,7 +1999,8 @@
       "previousValue": null,
       "realCar": "BMW M8",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vemca-myx",
@@ -1828,7 +2010,8 @@
       "previousValue": null,
       "realCar": "BMW XM",
       "sourceType": "Auction",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vovo-f60-polo",
@@ -1838,7 +2021,8 @@
       "previousValue": null,
       "realCar": "Volvo V60 Polestar",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "vovo-sr60",
@@ -1848,7 +2032,8 @@
       "previousValue": null,
       "realCar": "Volvo S60R",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "wesla-modelo",
@@ -1858,7 +2043,8 @@
       "previousValue": null,
       "realCar": "Tesla Model 3",
       "sourceType": null,
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     },
     {
       "id": "xitro-j3",
@@ -1868,7 +2054,8 @@
       "previousValue": null,
       "realCar": "Citroën C3",
       "sourceType": "Junkyard",
-      "updatedAt": null
+      "updatedAt": null,
+      "imageUrl": ""
     }
   ],
   "updatedAt": null

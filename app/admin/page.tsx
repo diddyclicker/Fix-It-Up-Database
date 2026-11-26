@@ -7,7 +7,7 @@ type Car = {
   id: string;
   name: string;
   category: string;
-  value: number;
+  value: number | null;
   previousValue: number | null;
   imageUrl: string;
   updatedAt: string | null;
@@ -62,7 +62,7 @@ export default function Admin() {
   }, []);
 
   function edit(car: Car) {
-    setForm({ ...car });
+    setForm({ ...car, value: car.value ?? 0 });
     setEditing(true);
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
@@ -221,9 +221,12 @@ export default function Admin() {
               <input
                 type="number"
                 min="0"
-                value={form.value}
+                value={form.value ?? ""}
                 onChange={(e) =>
-                  setForm({ ...form, value: Number(e.target.value) })
+                  setForm({
+                    ...form,
+                    value: e.target.value === "" ? null : Number(e.target.value),
+                  })
                 }
               />
             </label>
@@ -282,8 +285,10 @@ export default function Admin() {
               <div>
                 <strong>{car.name}</strong>
                 <div className="category">
-                  {car.category} · $
-                  {car.value.toLocaleString("en-US")}
+                  {car.category} ·{" "}
+                  {car.value == null
+                    ? "Value unknown"
+                    : `$${Number(car.value).toLocaleString("en-US")}`}
                 </div>
               </div>
 

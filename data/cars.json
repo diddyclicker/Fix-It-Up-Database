@@ -21,10 +21,10 @@
     "id": "avyra-rf3",
     "name": "Avyra RF3",
     "category": "Junkyard",
-    "value": 23700,
-    "previousValue": 237000,
+    "value": 237000,
+    "previousValue": 23700,
     "imageUrl": "https://fix-it-up-database.vercel.app/images/AuidyRF3.webp",
-    "updatedAt": "2026-11-26T16:11:59.490Z"
+    "updatedAt": "2026-11-26T16:13:24.993Z"
   },
   {
     "id": "avyra-rf3-sedan",

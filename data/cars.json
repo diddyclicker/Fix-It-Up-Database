@@ -7,5 +7,14 @@
     "previousValue": null,
     "imageUrl": "",
     "updatedAt": "2026-11-26T00:00:00.000Z"
+  },
+  {
+    "id": "avyra-f8",
+    "name": "Avyra F8",
+    "category": "Sports Car",
+    "value": 29000000,
+    "previousValue": null,
+    "imageUrl": "https://fixitupdatabase.com/images/AuidyF8.webp",
+    "updatedAt": "2026-11-26T13:25:38.255Z"
   }
 ]
